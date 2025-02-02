@@ -1,0 +1,16 @@
+{
+  "name": "crypto-diet-platform",
+  "version": "1.0.0",
+  "description": "Crypto Diet Platform with Solana Pay",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
